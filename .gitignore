@@ -9,6 +9,8 @@ dist/
 # Gradle / Backend
 backend/.gradle/
 backend/build/
+backend/bin/
+bin/
 .gradle/
 build/
 *.class
